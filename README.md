@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤 I'm BENIE SYLVESTRE<br>🔭 I’m currently working with mediactive<br>as a Fullstack Developer<br>🤝 I’m open to freelancing projects<br>🌱 I’m currently learning React and React Native<br>⚡ Fun fact I like to share my knowledge and learn something new everyday
+👤 I'm BENIE SYLVESTRE<br>🔭 I’m currently working with mediactive<br>as a Fullstack Developer<br>🤝 I’m open to freelancing projects<br>🌱 I’m currently learning React<br>⚡ Fun fact I like to share my knowledge and learn something new everyday
 
 
 ## 🌐 Socials:
